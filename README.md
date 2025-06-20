@@ -1,13 +1,24 @@
 # TodoApi (.NET 8)
 
-## Architecture & Structure
+##  User Features
 
-This project follows a **clean, layered architecture**:
+Once registered and authenticated, a user can:
 
-- **TodoApi (API Layer):** Entry point, receives HTTP requests.
-- **Todo.Serv (Service Layer):** Business logic.
-- **Todo.Repo (Repository Layer):** Database access using EF Core.
-- **Todo.Domain (Domain Layer):** Entities, DTOs, and Interfaces.
+- **Log in** using email and password.
+- **Create** todo items (with title, description, status, etc).
+- **View** their own todo items.
+- **Update** or **delete** any of their existing todo items.
+- All requests must include a valid **JWT token** in the `Authorization` header to access secured endpoints.
+
+## Project Structure
+
+The project is organized into multiple layers:
+
+- **TodoApi**: The entry point of the API (Controllers, Startup config).
+- **Todo.Domain**: Contains domain entities, interfaces, and core business logic contracts.
+- **Todo.Repo**: Implementation of repositories using Entity Framework Core (DbContext, Migrations).
+- **Todo.Serv**: Services that contain the business logic, working between Controllers and Repositories.
+- **TodoApi.Test**: (Unit Testing layer using Moq & xUnit – not implemented in this project).
 
 ---
 
