@@ -1,0 +1,17 @@
+E:\Coding\TodoApi\Todo.Repo\bin\Debug\net8.0\Todo.Repo.deps.json
+E:\Coding\TodoApi\Todo.Repo\bin\Debug\net8.0\Todo.Repo.runtimeconfig.json
+E:\Coding\TodoApi\Todo.Repo\bin\Debug\net8.0\Todo.Repo.dll
+E:\Coding\TodoApi\Todo.Repo\bin\Debug\net8.0\Todo.Repo.pdb
+E:\Coding\TodoApi\Todo.Repo\bin\Debug\net8.0\Todo.Domain.dll
+E:\Coding\TodoApi\Todo.Repo\bin\Debug\net8.0\Todo.Domain.pdb
+E:\Coding\TodoApi\Todo.Repo\obj\Debug\net8.0\Todo.Repo.csproj.AssemblyReference.cache
+E:\Coding\TodoApi\Todo.Repo\obj\Debug\net8.0\Todo.Repo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\TodoApi\Todo.Repo\obj\Debug\net8.0\Todo.Repo.AssemblyInfoInputs.cache
+E:\Coding\TodoApi\Todo.Repo\obj\Debug\net8.0\Todo.Repo.AssemblyInfo.cs
+E:\Coding\TodoApi\Todo.Repo\obj\Debug\net8.0\Todo.Repo.csproj.CoreCompileInputs.cache
+E:\Coding\TodoApi\Todo.Repo\obj\Debug\net8.0\Todo.Repo.csproj.Up2Date
+E:\Coding\TodoApi\Todo.Repo\obj\Debug\net8.0\Todo.Repo.dll
+E:\Coding\TodoApi\Todo.Repo\obj\Debug\net8.0\refint\Todo.Repo.dll
+E:\Coding\TodoApi\Todo.Repo\obj\Debug\net8.0\Todo.Repo.pdb
+E:\Coding\TodoApi\Todo.Repo\obj\Debug\net8.0\Todo.Repo.genruntimeconfig.cache
+E:\Coding\TodoApi\Todo.Repo\obj\Debug\net8.0\ref\Todo.Repo.dll

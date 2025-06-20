@@ -1,0 +1,17 @@
+E:\Coding\TodoApi\Todo.Serv\bin\Debug\net8.0\Todo.Serv.deps.json
+E:\Coding\TodoApi\Todo.Serv\bin\Debug\net8.0\Todo.Serv.dll
+E:\Coding\TodoApi\Todo.Serv\bin\Debug\net8.0\Todo.Serv.pdb
+E:\Coding\TodoApi\Todo.Serv\bin\Debug\net8.0\Todo.Domain.dll
+E:\Coding\TodoApi\Todo.Serv\bin\Debug\net8.0\Todo.Repo.dll
+E:\Coding\TodoApi\Todo.Serv\bin\Debug\net8.0\Todo.Domain.pdb
+E:\Coding\TodoApi\Todo.Serv\bin\Debug\net8.0\Todo.Repo.pdb
+E:\Coding\TodoApi\Todo.Serv\obj\Debug\net8.0\Todo.Serv.csproj.AssemblyReference.cache
+E:\Coding\TodoApi\Todo.Serv\obj\Debug\net8.0\Todo.Serv.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\TodoApi\Todo.Serv\obj\Debug\net8.0\Todo.Serv.AssemblyInfoInputs.cache
+E:\Coding\TodoApi\Todo.Serv\obj\Debug\net8.0\Todo.Serv.AssemblyInfo.cs
+E:\Coding\TodoApi\Todo.Serv\obj\Debug\net8.0\Todo.Serv.csproj.CoreCompileInputs.cache
+E:\Coding\TodoApi\Todo.Serv\obj\Debug\net8.0\Todo.Serv.csproj.Up2Date
+E:\Coding\TodoApi\Todo.Serv\obj\Debug\net8.0\Todo.Serv.dll
+E:\Coding\TodoApi\Todo.Serv\obj\Debug\net8.0\refint\Todo.Serv.dll
+E:\Coding\TodoApi\Todo.Serv\obj\Debug\net8.0\Todo.Serv.pdb
+E:\Coding\TodoApi\Todo.Serv\obj\Debug\net8.0\ref\Todo.Serv.dll
